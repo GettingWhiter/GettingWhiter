@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GettingWhiter aka Robert White
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Robert White
+- 👀 I’m interested in making things and efficiency.
 - 🌱 I’m currently learning about the cloud, or; some clouds.
 - 💞️ I’m looking to collaborate on: nothing, yet.
 - 📫 How to reach me: DM?
