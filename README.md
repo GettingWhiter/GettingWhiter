@@ -1,4 +1,4 @@
-Recent graduate, looking for work.
+
 
 <!---
 GettingWhiter/GettingWhiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
